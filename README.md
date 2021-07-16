@@ -5,7 +5,7 @@
 - Caíque Lima
 
 ### O que funciona
-- Tudo
+- Tudo, menos desafios
 
 ### Link Surge 
 https://illustrious-bottles.surge.sh/
