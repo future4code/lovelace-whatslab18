@@ -1,7 +1,7 @@
 ### WhatsLab
 
 ### Integrantes
-- clarice Medeiros
+- Clarice Medeiros
 - Caíque Lima
 
 ### O que funciona
